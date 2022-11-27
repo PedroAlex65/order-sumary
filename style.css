@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+body {
+    background: #E0E8FF;
+
+}
+
+.image-one {
+    width: 100%;
+    position: absolute;
+}
+
+header {
+    margin-left: 40%;
+    margin-top: 102px;
+    width: 450px;
+    height: 697px;
+    background-color: white;
+    box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
+    border-radius: 20px;
+    position: fixed;
+
+
+
+}
+
+h1 {
+
+    font-size: 28px;
+    line-height: 37.04px;
+    text-align: center;
+    color: #1f2e55;
+    margin-top: 41px;
+    margin-bottom: 17px;
+    font-weight: 900;
+}
+
+p {
+
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #717fa6;
+    margin-bottom: 41px;
+    font-weight: 500;
+
+}
+
+a {
+    width: 52px;
+    height: 19px;
+    color: #382ae1;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.modifi-plan {
+    width: 117.19px;
+    height: 21px;
+    font-size: 16px;
+    line-height: 21.17px;
+    color: #1f2e55;
+    font-weight: 900;
+}
+
+.modifi-money {
+    width: 92px;
+    height: 27px;
+    font-size: 16px;
+    line-height: 21.17px;
+    color: #717fa6;
+    margin-bottom: 72px;
+    font-weight: 500;
+}
+
+.button-one {
+    width: 354px;
+    height: 50px;
+    border-radius: 11px;
+    background-color: #382ae1;
+    color: white;
+    box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+    border: none;
+    margin-bottom: 32px;
+    margin: 0 auto;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.button-two {
+    width: 96px;
+    font-size: 15px;
+    line-height: 19.85px;
+    color: #717fa6;
+    margin: 0 auto;
+    margin-top: 32px;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+
+.payments {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-jus {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.image-music {
+    height: 18px;
+    margin-top: 8px;
+    
+
+}
